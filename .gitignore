@@ -1,0 +1,10 @@
+.idea
+.tern-project
+.project
+.settings
+*.iml
+project.xml
+.idea/
+.tern-project/
+.project/
+.settings/
